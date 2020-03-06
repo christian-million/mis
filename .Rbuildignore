@@ -1,0 +1,5 @@
+^mis\.Rproj$
+^\.Rproj\.user$
+^create_mis_package\.R$
+^data-raw$
+^README\.Rmd$

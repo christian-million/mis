@@ -1,0 +1,18 @@
+Package: mis
+Title: Streamlined MIS Trouble Shooting for YCCD
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Christian",
+           family = "Million",
+           role = c("aut", "cre"),
+           email = "millionc@yosemite.edu")
+Description: Provides functions and data to facilitate
+    streamlined data processing for MIS reporting.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    readr,
+    purrr,
+    stringr
+RoxygenNote: 6.1.1
