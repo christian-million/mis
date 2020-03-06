@@ -24,8 +24,8 @@ The goal of mis is to easily read, prep, and write MIS related workfiles.
 Install it from [GitHub](https://github.com/christian-million/mis) with:
 
 ``` r
-# install.packages('remotes')
-remotes::install_github(christian-million/mis)
+# install.packages("remotes")
+remotes::install_github("christian-million/mis")
 ```
 
 # Example

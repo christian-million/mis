@@ -15,8 +15,8 @@ workfiles.
 Install it from [GitHub](https://github.com/christian-million/mis) with:
 
 ``` r
-# install.packages('remotes')
-remotes::install_github(christian-million/mis)
+# install.packages("remotes")
+remotes::install_github("christian-million/mis")
 ```
 
 # Example
